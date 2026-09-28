@@ -13,3 +13,4 @@ sqlalchemy
 requests
 PyJWT
 passlib[bcrypt]
+email-validator
