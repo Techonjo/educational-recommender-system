@@ -1,0 +1,227 @@
+course_id,book_id,candidate_relevance_score,matching_terms,note
+CS101,OTL003,0.71,"computer, problem, solving",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL006,0.59,"computer, science",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL010,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL013,0.47,introduction,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL015,0.47,introduction,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL016,0.59,"problem, solving",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL017,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL018,0.47,introduction,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL020,0.59,"computer, science",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL022,0.47,science,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL023,0.47,science,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL028,0.59,"computer, introduction",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS101,OTL029,0.47,computing,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL002,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL003,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL006,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL008,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL009,0.71,"fundamentals, programming, structures",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL010,0.47,structures,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL013,0.47,structures,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL015,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL016,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL020,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL025,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL026,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL027,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS102,OTL029,0.47,structures,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL003,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL006,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL010,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL012,0.47,logic,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL017,0.95,"architecture, computer, cpu, digital, logic",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL020,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL024,0.47,digital,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL028,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS103,OTL029,0.47,digital,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS104,OTL012,0.47,logic,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS104,OTL017,0.47,logic,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS105,OTL009,0.47,fundamentals,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS105,OTL015,0.59,"internet, web",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL002,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL003,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL006,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL008,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL009,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL015,0.47,programming,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL016,0.83,"java, object, oriented, programming",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL020,0.83,"java, object, oriented, programming",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL025,0.71,"object, oriented, programming",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL026,0.71,"object, oriented, programming",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS201,OTL027,0.71,"object, oriented, programming",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL005,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL009,0.59,"data, structures",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL010,0.59,"data, structures",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL013,0.83,"data, graphs, queues, structures",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL021,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL022,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL023,0.47,graphs,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS202,OTL029,0.59,"data, structures",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL002,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL003,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL004,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL010,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL013,0.59,"algorithms, graphs",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL016,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL019,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL023,0.59,"complexity, graphs",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS203,OTL024,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL001,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL004,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL005,0.71,"data, databases, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL007,0.47,modeling,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL008,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL009,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL010,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL011,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL013,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL014,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL018,0.59,"modeling, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL021,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL022,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL023,0.47,modeling,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL028,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS204,OTL029,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL001,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL004,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL005,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL008,0.71,"concurrency, operating, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL011,0.71,"concurrency, operating, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL014,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL018,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS205,OTL028,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL003,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL006,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL010,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL011,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL017,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL018,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL020,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL028,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS206,OTL029,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL005,0.59,"analysis, data",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL009,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL010,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL013,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL018,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL021,0.83,"analysis, data, probability, statistics",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL022,0.71,"data, probability, statistics",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL024,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS207,OTL029,0.59,"computing, data",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS301,OTL028,0.59,"artificial, intelligence",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS302,OTL006,0.47,learning,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS302,OTL021,0.47,statistics,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS302,OTL022,0.47,statistics,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL003,0.59,"algorithms, computer",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL006,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL010,0.83,"algorithms, computer, geometry, graphics",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL013,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL017,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL019,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL020,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL024,0.47,algorithms,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS303,OTL028,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS304,OTL002,0.47,languages,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS304,OTL007,0.47,computation,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS304,OTL012,0.95,"automata, computation, formal, grammar, languages, theory",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS304,OTL019,0.47,computation,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS304,OTL023,0.47,automata,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL002,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL004,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL005,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL016,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL018,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL021,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS305,OTL024,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL002,0.47,design,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL004,0.59,"design, development",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL015,0.47,development,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL016,0.59,"design, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL025,0.59,"development, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL026,0.59,"development, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL027,0.59,"development, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS306,OTL029,0.47,software,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL002,0.47,application,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL004,0.47,development,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL015,0.47,development,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL016,0.47,software,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL025,0.59,"development, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL026,0.59,"development, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL027,0.59,"development, software",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS307,OTL029,0.47,software,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL003,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL006,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL010,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL011,0.47,interaction,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL017,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL020,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS308,OTL028,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS401,OTL011,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS401,OTL018,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS401,OTL029,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL001,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL004,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL005,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL008,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL011,0.59,"storage, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL014,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL018,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL028,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS402,OTL029,0.47,computing,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL003,0.47,python,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL005,0.59,"analysis, data",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL006,0.71,"learning, python, science",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL009,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL010,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL013,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL018,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL020,0.47,science,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL021,0.83,"analysis, data, python, statistics",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL022,0.83,"data, python, science, statistics",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL023,0.59,"python, science",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL024,0.59,"analysis, python",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS403,OTL029,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS404,OTL003,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS404,OTL006,0.59,"computer, learning",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS404,OTL010,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS404,OTL017,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS404,OTL020,0.47,computer,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS404,OTL028,0.59,"computer, vision",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL001,0.47,information,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL002,0.47,language,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL004,0.47,information,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL005,0.47,information,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL006,0.47,learning,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL014,0.47,information,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL019,0.47,processing,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL024,0.47,processing,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS405,OTL029,0.59,"information, retrieval",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL001,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL004,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL005,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL008,0.59,"concurrency, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL011,0.83,"concurrency, middleware, networks, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL014,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL018,0.59,"networks, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL028,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS406,OTL029,0.59,"computing, networks",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL001,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL004,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL005,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL008,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL011,0.59,"networks, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL014,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL015,0.47,internet,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL018,0.59,"networks, systems",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL028,0.47,systems,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS407,OTL029,0.47,networks,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL005,0.59,"analysis, data",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL009,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL010,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL013,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL018,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL021,0.59,"analysis, data",Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL022,0.47,data,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL024,0.47,analysis,Candidate match generated from topic overlap; verify before treating as ground truth.
+CS408,OTL029,0.59,"computing, data",Candidate match generated from topic overlap; verify before treating as ground truth.

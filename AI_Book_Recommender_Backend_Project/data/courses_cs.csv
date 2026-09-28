@@ -1,0 +1,29 @@
+course_id,programme,level,semester,course_title,topics
+CS101,Computer Science,100,1,Introduction to Computer Science,computer science;computing;problem solving
+CS102,Computer Science,100,2,Programming Fundamentals,programming;variables;control structures;functions
+CS103,Computer Science,100,1,Computer Architecture,CPU;digital logic;memory;computer organization
+CS104,Computer Science,100,2,Discrete Mathematics,logic;sets;relations;functions;proof
+CS105,Computer Science,100,2,Web Fundamentals,HTML;CSS;JavaScript;web;internet
+CS201,Computer Science,200,1,Object-Oriented Programming,OOP;classes;objects;inheritance;Java
+CS202,Computer Science,200,1,Data Structures,arrays;lists;stacks;queues;trees;graphs
+CS203,Computer Science,200,2,Algorithms,sorting;searching;graphs;complexity;algorithm design
+CS204,Computer Science,200,2,Database Systems,database;SQL;data modeling;relational databases
+CS205,Computer Science,200,1,Operating Systems,processes;threads;memory;file systems;concurrency
+CS206,Computer Science,200,2,Computer Networks,TCP/IP;networking;communication;protocols
+CS207,Computer Science,200,2,Statistics for Computing,probability;statistics;data analysis
+CS301,Computer Science,300,1,Artificial Intelligence,AI;search;knowledge representation;intelligent agents
+CS302,Computer Science,300,1,Machine Learning,machine learning;statistics;prediction;classification
+CS303,Computer Science,300,1,Computer Graphics,graphics;geometry;algorithms;visualization
+CS304,Computer Science,300,2,Theory of Computation,automata;formal languages;grammar;computation
+CS305,Computer Science,300,2,Compiler Design,lexical analysis;parsing;grammars;compilers
+CS306,Computer Science,300,2,Software Engineering,software design;requirements;testing;development
+CS307,Computer Science,300,1,Mobile Application Development,mobile;apps;software development;UI
+CS308,Computer Science,300,2,Human Computer Interaction,HCI;user interfaces;usability;interaction
+CS401,Computer Science,400,1,Cybersecurity,security;threats;authentication;cryptography;networks
+CS402,Computer Science,400,1,Cloud Computing,cloud;distributed systems;virtualization;storage
+CS403,Computer Science,400,1,Data Science,data analysis;statistics;Python;machine learning
+CS404,Computer Science,400,2,Computer Vision,images;vision;feature extraction;machine learning
+CS405,Computer Science,400,2,Natural Language Processing,NLP;text;language;machine learning;information retrieval
+CS406,Computer Science,400,2,Distributed Systems,distributed computing;concurrency;networks;middleware
+CS407,Computer Science,400,1,Internet of Things,IoT;sensors;embedded systems;networks
+CS408,Computer Science,400,2,Research Methods in Computing,research;data collection;analysis;technical writing

@@ -1,0 +1,30 @@
+book_id,title,authors,publication_year,topics,license,source
+OTL001,Information Systems - A Manager's Guide to Harnessing Technology,David T. Bourgeois,2015,Information Systems; IT; Management Information Systems,CC BY-NC-SA,Open Textbook Library
+OTL002,Programming Languages: Application and Interpretation - Version Second Edition,Shriram Krishnamurthi,2007,Programming Languages; Programming; Interpreters; Language Design,CC BY-NC-SA,Open Textbook Library
+OTL003,Think Python: How to Think Like a Computer Scientist - 2e,Allen B. Downey,2012,Python; Programming; Algorithms; Problem Solving,CC BY-NC,Open Textbook Library
+OTL004,Business Information Systems: Design an App for That,Frost; Pike; Kenyo; Pels,2011,Information Systems; App Development; Systems Design,CC BY-NC-SA,Open Textbook Library
+OTL005,Essentials of Geographic Information Systems,Jonathan Campbell; Michael Shin,2011,GIS; Databases; Information Systems; Data Analysis,CC BY-NC-SA,Open Textbook Library
+OTL006,How to Think Like a Computer Scientist: Learning with Python,Allen B. Downey; Jeffrey Elkner; Chris Meyers,2008,Python; Programming; Computer Science,CC BY,Open Textbook Library
+OTL007,Physical Modeling in MATLAB - Version 4.0,Allen B. Downey,2021,MATLAB; Modeling; Simulation; Computation,CC BY-NC,Open Textbook Library
+OTL008,The Little Book of Semaphores,Allen B. Downey,2016,Concurrency; Operating Systems; Synchronization; Parallel Programming,CC BY-NC-SA,Open Textbook Library
+OTL009,Programming Fundamentals - A Modular Structured Approach using C++,Kenneth Leroy Busbee,2013,C++; Programming Fundamentals; Structured Programming; Data Structures,CC BY,Open Textbook Library
+OTL010,Algorithms and Data Structures With Applications to Graphics and Geometry,Jürg Nievergelt; Klaus Hinrichs,2011,Algorithms; Data Structures; Computer Graphics; Geometry,CC BY,Open Textbook Library
+OTL011,Operating Systems and Middleware: Supporting Controlled Interaction,Max Hailperin,2015,Operating Systems; Middleware; Networks; Concurrency; Storage,CC BY-SA,Open Textbook Library
+OTL012,Foundations of Computation,Carol Critchlow; David Eck,2011,Theory of Computation; Logic; Automata; Formal Languages; Grammar,CC BY-NC-SA,Open Textbook Library
+OTL013,Open Data Structures: An Introduction,Pat Morin,2013,Data Structures; Algorithms; Graphs; Queues; Dictionaries,CC BY-NC-ND,Open Textbook Library
+OTL014,Information Systems for Business and Beyond,David T. Bourgeois; Wendy Smith; James Wang; Joseph Mortati,2014,Information Systems; IT; Business Systems,CC BY-NC,Open Textbook Library
+OTL015,The Missing Link: An Introduction to Web Development and Programming,Michael Mendez,2014,Web Development; Programming; Internet; Web Technologies,CC BY-NC-SA,Open Textbook Library
+OTL016,"Java, Java, Java: Object-Oriented Problem Solving",Ralph Morelli; Ralph Walde,2016,Java; Object-Oriented Programming; Problem Solving; Software Design,CC BY,Open Textbook Library
+OTL017,Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits,Thomas Kann,2014,Digital Logic; Computer Architecture; CPU; Digital Circuits,CC BY,Open Textbook Library
+OTL018,Introduction to the Modeling and Analysis of Complex Systems,Hiroki Sayama,2015,Complex Systems; Computational Modeling; Simulation; Networks,CC BY-NC-SA,Open Textbook Library
+OTL019,Fast Fourier Transforms,Charles Sidney Burrus,2012,Algorithms; Signal Processing; Fourier Transform; Computation,CC BY,Open Textbook Library
+OTL020,Think Java: How To Think Like a Computer Scientist - 2e,Chris Mayfield; Allen B. Downey,2020,Java; Programming; Computer Science; Object-Oriented Programming,CC BY-NC-SA,Open Textbook Library
+OTL021,Think Stats: Probability and Statistics for Programmers - 2e,Allen B. Downey,2014,Statistics; Probability; Python; Data Analysis,CC BY-NC,Open Textbook Library
+OTL022,Think Bayes: Bayesian Statistics Made Simple,Allen B. Downey,2012,Bayesian Statistics; Probability; Python; Data Science,CC BY-NC,Open Textbook Library
+OTL023,Think Complexity: Exploring Complexity Science with Python - 2e,Allen B. Downey,2018,Python; Complexity; Graphs; Cellular Automata; Modeling,CC BY-NC-SA,Open Textbook Library
+OTL024,Think DSP: Digital Signal Processing in Python,Allen B. Downey,2012,Python; Digital Signal Processing; Algorithms; Signal Analysis,CC BY-NC,Open Textbook Library
+OTL025,Squeak by Example,Andrew Black; Stéphane Ducasse; Oscar Nierstrasz; Damien Pollet,2009,Smalltalk; Object-Oriented Programming; Software Development,CC BY-SA,Open Textbook Library
+OTL026,Pharo by Example 5.0,Stéphane Ducasse; Quentin Zagidulin; Alexandre Bergel; Damien Cassou,2016,Pharo; Smalltalk; Object-Oriented Programming; Software Development,CC BY-SA,Open Textbook Library
+OTL027,Deep into Pharo,Alexandre Bergel; Damien Cassou; Stéphane Ducasse; Johan Fabry,2013,Pharo; Object-Oriented Programming; Software Development,CC BY-SA,Open Textbook Library
+OTL028,Introduction to Autonomous Robots,Nikolaus Correll,2016,Robotics; Artificial Intelligence; Computer Vision; Localization; Autonomous Systems,CC BY-NC,Open Textbook Library
+OTL029,Signal Computing: Digital Signals in the Software Domain,Michael Stiber; Eric Larson,2020,Digital Signals; Data Structures; Data Analytics; Information Retrieval; Networks,CC BY-SA,Open Textbook Library

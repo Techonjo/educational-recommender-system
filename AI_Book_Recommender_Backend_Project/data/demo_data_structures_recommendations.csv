@@ -1,0 +1,6 @@
+course,similarity_score,book_id,title,authors,publication_year,topics
+Data Structures,0.5675,OTL013,Open Data Structures: An Introduction,Pat Morin,2013,Data Structures; Algorithms; Graphs; Queues; Dictionaries
+Data Structures,0.2699,OTL010,Algorithms and Data Structures With Applications to Graphics and Geometry,Jürg Nievergelt; Klaus Hinrichs,2011,Algorithms; Data Structures; Computer Graphics; Geometry
+Data Structures,0.1701,OTL029,Signal Computing: Digital Signals in the Software Domain,Michael Stiber; Eric Larson,2020,Digital Signals; Data Structures; Data Analytics; Information Retrieval; Networks
+Data Structures,0.1459,OTL009,Programming Fundamentals - A Modular Structured Approach using C++,Kenneth Leroy Busbee,2013,C++; Programming Fundamentals; Structured Programming; Data Structures
+Data Structures,0.0797,OTL023,Think Complexity: Exploring Complexity Science with Python - 2e,Allen B. Downey,2018,Python; Complexity; Graphs; Cellular Automata; Modeling
