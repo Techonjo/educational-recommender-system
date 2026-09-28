@@ -1,6 +1,10 @@
 import axios from 'axios';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/v1';
+// In production (Render), VITE_API_URL is injected at build time.
+// The hardcoded URL below acts as a reliable production fallback.
+const API_BASE_URL =
+  import.meta.env.VITE_API_URL ||
+  'https://ai-book-recommender-api.onrender.com/api/v1';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
