@@ -252,10 +252,7 @@ export default function App() {
           <HeroCarousel onSearch={runLiveSearch} />
 
           {/* ── Stats Bar ── */}
-          <div style={{
-            display: 'grid',
-            gridTemplateColumns: 'repeat(3, 1fr)',
-            gap: '1px',
+          <div className="grid-3-col" style={{
             backgroundColor: 'var(--border-color)',
             borderRadius: 'var(--radius-md)',
             overflow: 'hidden',
@@ -481,9 +478,8 @@ export default function App() {
 
                 {!videoLoading && videos.length > 0 && (
                   <div className="animate-fade-up">
-                    <div style={{
-                      display: 'flex', justifyContent: 'space-between',
-                      alignItems: 'flex-end', marginBottom: '1.75rem',
+                    <div className="flex-between" style={{
+                      marginBottom: '1.75rem',
                     }}>
                       <div>
                         <h3 style={{ fontSize: '1.375rem', fontWeight: 700, margin: '0 0 0.3rem 0', letterSpacing: '-0.02em', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
@@ -549,9 +545,8 @@ export default function App() {
 
                 {!isLoading && recommendations.length > 0 && (
                   <div className="animate-fade-up">
-                    <div style={{
-                      display: 'flex', justifyContent: 'space-between',
-                      alignItems: 'flex-end', marginBottom: '1.75rem',
+                    <div className="flex-between" style={{
+                      marginBottom: '1.75rem',
                     }}>
                       <div>
                         <h3 style={{ fontSize: '1.375rem', fontWeight: 700, margin: '0 0 0.3rem 0', letterSpacing: '-0.02em' }}>
